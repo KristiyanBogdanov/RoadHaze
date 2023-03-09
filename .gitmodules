@@ -4,3 +4,6 @@
 [submodule "mobile"]
 	path = mobile
 	url = https://github.com/Baladjinator/Mobile-App
+[submodule "cpu_model_and_data_fit_prototype"]
+	path = cpu_model_and_data_fit_prototype
+	url = https://github.com/Baladjinator/RoadHaze-Cpu-model-and-data-fit-prototype

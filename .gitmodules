@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/Baladjinator/RoadHaze-API
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/Baladjinator/Mobile-App

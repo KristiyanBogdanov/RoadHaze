@@ -10,3 +10,6 @@
 [submodule "dataset"]
 	path = dataset
 	url = https://github.com/Baladjinator/RoadHaze-Dataset
+[submodule "cam"]
+	path = cam
+	url = https://github.com/Baladjinator/RoadHaze-Cam
